@@ -1,0 +1,1 @@
+solution = (money) => [Math.floor(money / 5500), Math.floor(money % 5500)];
